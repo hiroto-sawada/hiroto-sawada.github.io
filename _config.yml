@@ -27,7 +27,7 @@ author:
   bio              : "Ph.D. student in politics"
   location         : "Princeton, NJ"
   employer         : "Princeton University"
-  uri              : # URL
+  URI              : "https://politics.princeton.edu"
   email            : "hsawada@princeton.edu" 
 
   # Academic websites
