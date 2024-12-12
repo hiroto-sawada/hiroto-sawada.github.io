@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hiroto Sawada"
-  pronouns         : "he/him"  
-  bio              : "Ph.D. student in politics at Princeton University"
+  pronouns         : # "he/him"  
+  bio              : "Ph.D. student in politics"
   location         : "Princeton, NJ"
   employer         : "Princeton University"
   uri              : # URL
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=5SHZciEAAAAJ&hl=ja"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7552-0399"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
