@@ -6,12 +6,3 @@ location: "Princeton, NJ"
 ---
 
 Preceptor (TA) for Germán Gieczewski
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
