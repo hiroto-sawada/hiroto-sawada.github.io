@@ -78,10 +78,12 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  journal:
     title: 'Journal Articles'    
-  conferences:
+  workingpaper:
     title: 'Working Papers'
+  workinprogress:
+    title: 'Selected Works in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
