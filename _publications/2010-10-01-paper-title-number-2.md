@@ -5,5 +5,4 @@ permalink: /publication/2010-10-01-paper-title-number-2
 date: 2025-08-01
 venue: '<b>Hiroto Sawada</b> (2025) "Natural Disasters, Asymmetric Exposure, and War: Why Empirical Evidence on Climate Conflict Is Mixed."'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
