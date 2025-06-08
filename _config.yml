@@ -21,7 +21,7 @@ repository               : "hiroto-sawada/hiroto-sawada.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Hiroto Sawada"
   pronouns         : # "he/him"  
   bio              : "Ph.D. student in politics"
