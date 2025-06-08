@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. student in politics at Princeton University.
+Welcome! I am a Ph.D. student in politics at Princeton University and a graduate fellow at the Program for Quantitative and Analytical Political Science (QAPS).
 
 My research interests include the political economy of conflict; international relations theory; formal political theory; and theoretical implications of empirical models (TIEM).
 My research appears in [_International Studies Quarterly_](https://doi.org/10.1093/isq/sqae023).
