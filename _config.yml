@@ -85,6 +85,12 @@ publication_category:
   workinprogress:
     title: 'Selected Works in Progress'
 
+teaching_category:
+  princeton:
+    title: 'Princeton University'
+  others:
+    title: 'Other Institutions'    
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
