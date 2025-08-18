@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV <a href="https://hiroto-sawada.github.io/files/CV20250818">here</a>
+You can find my CV <a href="https://hiroto-sawada.github.io/files/CV20250818.pdf">here</a>
