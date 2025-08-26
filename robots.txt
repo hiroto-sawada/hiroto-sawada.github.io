@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hiroto-sawada.github.io/sitemap.xml
