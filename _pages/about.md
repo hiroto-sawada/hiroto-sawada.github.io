@@ -15,3 +15,4 @@ My research appears in [_International Studies Quarterly_](https://doi.org/10.10
 I received a B.A. in Policy Management (2013) and M.A.s in Media and Governance (2015) and Economics (2016) from Keio University, Japan. Prior to Princeton, I worked at the National Institute for Defense Studies (Ministry of Defense, Japan) as a research fellow, where I taught international relations to senior officers of the Self-Defense Forces.
 
 I am **on the 2025-26 job market!**
+The latest draft of my job market paper can be found [here](https://hiroto-sawada.github.io/files/Disaster_LatestDraft.pdf).
