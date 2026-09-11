@@ -2,6 +2,6 @@
 title: "Paper Title Number 3"
 collection: publications
 category: workingpaper
-date: 2025-07-01
+date: 2026-08-31
 venue: 'Gaku Ito, Duc Tran, <b>Hiroto Sawada</b>, Ghulam Dastgir Khan, and Yuichiro Yoshida (2026) "Pain, Attitudes, and Behavior: Divergent Legacies of Herbicidal Warfare in Vietnam." <b>Submitted</b>. <a href="https://hiroto-sawada.github.io/files/pain_v1.pdf">Link</a> | <a href="https://dx.doi.org/10.2139/ssrn.5397061">SSRN</a>'
 ---
